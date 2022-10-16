@@ -1,0 +1,9 @@
+Start a new Node JS project  with ‘ npm init ‘
+Install the mongoose and express and  .env
+Configure the environment variables with .env
+Lunch a server with express in the server.js file
+Connect your database locally or with mongo atlas
+The Folder structure should be like this :
+config/ .env 
+
+Server.js
